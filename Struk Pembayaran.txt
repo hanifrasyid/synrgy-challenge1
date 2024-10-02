@@ -1,0 +1,19 @@
+===============================
+Struk Pembayaran BinarFud
+===============================
+
+Terima Kasih Sudah Memesan di BinarFud
+
+Di Bawah Ini Adalah Pesanan Anda
+
+Nama Makanan       Qty   Total
+--------------------------------
+Nasi Goreng          3 45000
+Mie Goreng           4 52000
+Es Teh Manis         3  9000
+--------------------------------
+Pembayaran: BinarCash
+
+==================================
+Simpan Struk Ini Sebagai Bukti Pembayaran
+==================================
